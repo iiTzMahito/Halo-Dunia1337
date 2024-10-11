@@ -1,6 +1,6 @@
 # Halo-Dunia `HacktoberFest 2024` Repositories ✨
 
-![HacktoberFest](https://github.com/newridho/Halo-Dunia22/raw/main/.github/logo_hd.png)
+![HacktoberFest](https://ibb.co.com/6RwNnXP))
 
 ## This Project Is Perfect For Your Pull Request
 
