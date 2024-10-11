@@ -1,6 +1,6 @@
 # Halo-Dunia `HacktoberFest 2024` Repositories ✨
 
-![HacktoberFest]([https://github.com/newridho/Halo-Dunia22/raw/main/.github/logo_hd.png](https://hacktoberfest.com/_next/static/media/logo-hacktoberfest-11--beige.2b2fdfcb.svg))
+![HacktoberFest](https://github.com/newridho/Halo-Dunia22/raw/main/.github/logo_hd.png](https://hacktoberfest.com/_next/static/media/logo-hacktoberfest-11--beige.2b2fdfcb.svg](https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg2d3pghl35bv6hw1itsu.png)))
 
 ## This Project Is Perfect For Your Pull Request
 
