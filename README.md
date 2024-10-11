@@ -1,4 +1,4 @@
-# Halo-Dunia `HacktoberFest 2022` Repositories ✨
+# Halo-Dunia `HacktoberFest 2024` Repositories ✨
 
 ![HacktoberFest](https://github.com/newridho/Halo-Dunia22/raw/main/.github/logo_hd.png)
 
